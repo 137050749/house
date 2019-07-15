@@ -1,0 +1,27 @@
+<style lang="less" scoped>
+
+</style>
+<template>
+  <view>
+    <view class="header">
+      <image scr="../../static/logo.png"/>
+    </view>
+  </view>
+</template>
+<script>
+import wepy from 'wepy'
+export default class extends wepy.page {
+  config = {
+
+  }
+  data = {
+    
+  }
+  methods = {
+
+  }
+  onLoad(){
+
+  }
+}
+</script>
